@@ -1,0 +1,5 @@
+Naam bedrijf
+op ze minst 4 catogorien van kleding met daarin 4 kleding stukken met prijs
+die 4 catogorien moeten netjes op de hoofdpagina staan in een grid formatie.
+pagina waar contact opgenomen kan worden.
+Credits onder aan de pagina

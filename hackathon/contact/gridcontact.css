@@ -1,0 +1,33 @@
+.container {
+    height: 100%;
+    display: grid;
+    grid-gap: 3px;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 50px auto 50px 100px;
+    grid-template-areas: 
+        "h h h h h h h h h h h h"
+        "m m m m m m m m m m m m"
+        "f f f f f f f f f f f f"
+        "r r r r r r r r r r r r";
+}
+
+.header {
+    grid-area: h;
+    background-color: #691c1c;
+}
+
+.contact {
+    grid-area: m;
+    background-color: #6b9681;
+}
+
+
+.footer {
+    grid-area: f;
+    background-color: #691c1c;
+}
+
+.credits{
+    grid-area: r;
+    background-color: #6b9681;
+}

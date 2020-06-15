@@ -1,0 +1,14 @@
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: #ffeead;
+}
+
+#link_bar a { padding:15px; font-weight:bold; float:left; }
+#link_bar a:link { color:#ffeead; }
+#link_bar a:visited { color:#ffeead;}
+#link_bar a:hover { color:#ffeead;}
+#link_bar a:active { color:#ffeead;}
+
